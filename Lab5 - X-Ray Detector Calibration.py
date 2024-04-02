@@ -1,16 +1,3 @@
-#%%
-# -*- python: 3.7.9 -*-
-# -*- coding: utf-8 -*-
-###########################
-# Filename: 		KIN_radiation_stud.py
-# Project: 			KIN_radiation_Data
-# Created Date: 	23 Oct 2022 19:00
-# Author: 			Martin Urban <martin-urban@fel.cvut.cz>
-# -----
-# Last Modified: 	23 Oct 2022 19:58
-# Modified By: 		Martin Urban
-###########################
-
 import os
 import numpy as np
 import matplotlib.pyplot as plt
